@@ -1,0 +1,28 @@
+:root {
+    --color-color-header : #fdaf67;
+    --color-color-h1 : #ffffff;
+}
+/* 2. GENERAL STYLES & RESETS */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+  
+.ahnaf h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem ;
+    color: var(--color-color-header);
+}
+.ahnaf{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem ;
+    color: var(--color-color-header);
+}
+.ahnaf{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem ;
+    color: var(--color-color-header);
+}
+.ahnaf{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem ;
+    color: var(--color-color-header);
+}
